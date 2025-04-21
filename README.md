@@ -25,6 +25,7 @@ This repository is provided as-is without any warranty. Please refer to the indi
 - [workflows](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/introduction/workflows.html)
 - [isaac-sim-core-api](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/core_api_tutorials/index.html#isaac-sim-core-api-tutorials-page)
 - [isaac-sim-robot-gui](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/gui/tutorial_build_robot_in_gui.html#isaac-sim-robot-gui-tutorials)
+- [Python Scripting Component - User Manual](https://docs.omniverse.nvidia.com/extensions/latest/ext_python-scripting-component/user_manual.html)
 - [Creating Intelligent Machines with the Isaac SDK](https://www.youtube.com/watch?v=sI4zHNXdtzk)
 - [National Robotics Week -- Latest Physical AI Research, Breakthroughs and Resources](https://blogs.nvidia.com/blog/national-robotics-week-2025/?ncid=so-link-339097-vt48&linkId=100000356313708#nicklas-hansen)
 - [Articulation Rigging with ROS 2 Bridge](https://www.youtube.com/live/ithYYtUduMQ)
